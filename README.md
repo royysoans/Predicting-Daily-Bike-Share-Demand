@@ -34,4 +34,4 @@ After evaluating the Linear Regression model, I also explored a Decision Tree Re
 
 **Model Comparison Summary**  
 - **Linear Regression** explains slightly more variance (R² = 81%) and has lower RMSE, meaning it performs better overall on this dataset.  
-- **Decision Tree Regression** has a slightly worse R² and RMSE, suggesting it may be overfitting.  
+- **Decision Tree Regression** has a slightly worse R² and RMSE 
